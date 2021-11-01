@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+body{
+
+	font-family: 'Poppins', sans-serif;
+	width: 1200px;
+	height: 500px;
+	background-color: #FDFDFD;
+	
+
+}
+
+
+.flex-container{
+	display: flex;
+
+}
+
+
+
+img{
+	width: 500px;
+	margin-top: 120px;
+	margin-left: 100px;
+
+	
+
+}
+
+.container{
+
+	margin-top: 120px;
+	margin-left: 200px;
+
+}
+
+
+.form{
+	display: flex;
+	flex-direction: column;
+	aling-items:center;
+	position: center;
+	margin-bottom: 30px;
+	margin-top: 30px;	
+	
+
+}
+
+.form input{
+	decoration:none;
+	outline: none;
+	padding: 5px;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+.form label{
+	display: flex;
+	flex-direction:column;
+	padding: 10px;
+}
+
+
+
+.color{
+	margin-top: 30px;
+	width: 400px;
+	height: 30px;
+	border: 0;
+	border-radius:6px;
+	font-size: 15px;
+
+
+
+	
+}
+
+
+
+a{
+	text-decoration: none;
+
+}
+
+.lem{
+	margin-left: 150px;
+}
+
+.check{
+	margin-top: 10px;
+	font-size: 12px;
+
+
+}
+
+.footer{
+	text-align: center;
+	font-size: 12px;
+	
+}
+
+/*   border-radius: 30px;
+	color:#090979;
+	border:1px solid rgba(255, 255, 255, 0.7);
+	background: rgba(255, 255, 255, 0.15);
+	background-filter: blur(45px);
+} */
